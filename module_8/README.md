@@ -1,4 +1,4 @@
-# module_6 Проект 8. Ноутбук по проекту Ford vs Ferrari
+# module_8 Проект 7. Ноутбук по проекту Ford vs Ferrari
 
 УСЛОВИЯ
 
